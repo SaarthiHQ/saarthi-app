@@ -1,10 +1,10 @@
-Conductor :
-> Login : 
-Authenticate
-Display Screen
-> Select Route :
-Display Route Options
-> Select Trip : [ Scheduled time ]
+##Conductor
+1. **Login**
+  * Authenticate
+  * Display Screen
+2. **Select Route**
+  * Display Route Options
+3. **Select Trip** *[ Scheduled time ]*
 Display Trip options( may be clipped using current time)
 > Populate Wallet/Balance Sheet :
 Add initial Amount
