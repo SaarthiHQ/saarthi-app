@@ -24,3 +24,6 @@
   * Print ticket for non-smart passenger
 7. **Continuously update bus location**
   * Incase no passenger entry for particulare duration[ e.g,. 1min, 500mtr etc.] Push location to server.
+
+#1
+Activity-and-Data-Flow.md#1
