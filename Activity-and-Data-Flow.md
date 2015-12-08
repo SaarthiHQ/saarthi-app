@@ -11,6 +11,7 @@
   * Initialize Passenger Count = 0
 5. **Status** 
   * Update Start time. *Usefull for frequent travelleres [ Bus Could be delayed ]*
+  * Update Breakdown.
 6. **Continuously Issue Ticket** *[ For fast process, map num-pad keys to stops/stages. Note PMPL charge stage wise and not stop-wise ]*
   * Populate start [ shortcut key based on route: stop1, stop2, or stage1, stage2 etc. ]
   * Populate end [ shortcut key based on route: stop1, stop2, or stage1, stage2 etc. ]
