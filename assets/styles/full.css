@@ -25,3 +25,12 @@ body {
   /* bring your own prefixes */
   transform: translate(-50%, -50%);
 }
+
+.appname {
+  font-family: 'Grand Hotel', cursive;
+  font-weight: 200;
+  text-height: 200px;
+  font-size: 150px;
+  text-align: center;
+  color: #E8E8E8;
+}
