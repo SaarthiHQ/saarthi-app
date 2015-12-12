@@ -23,7 +23,12 @@ module.exports = {
             type: 'string',
             required: true,
             unique: true
-        }//,
+        },
+        address:{
+            type: 'string',
+            defaultsTo: 'Pune Smart City'
+        }
+        //,
         //lastTrips: {
         //    type: 'array'
         //}
