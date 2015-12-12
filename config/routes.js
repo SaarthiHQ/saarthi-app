@@ -47,5 +47,6 @@ module.exports.routes = {
   * for configuration options and examples.                                  *
   *                                                                          *
   ***************************************************************************/
-
+  'GET /user/all': 'UserController.findAll',
+  'GET /user/email/:email': 'UserController.findByEmail'
 };
